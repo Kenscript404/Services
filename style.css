@@ -265,7 +265,7 @@ p {
 /* End Hero Section */
 
 /* Services Section */
-#services .services {
+/* #services .services {
 	flex-direction: column;
 	text-align: center;
 	max-width: 1500px;
@@ -324,7 +324,7 @@ p {
 	color: white;
 	text-align: left;
 }
-/* End Services Section */
+/* End Services Section */ */
 
 /* skills section styling */
 #skills .skills {
@@ -500,6 +500,7 @@ p {
 }
 #about .col-right p {
 	margin-bottom: 20px;
+	text-align: justify;
 }
 #about .col-right .cta {
 	color: black;
