@@ -459,6 +459,7 @@ p {
 }
 #projects .project-info p {
 	color: white;
+	text-align: justify;
 	
 }
 #projects .project-img {
